@@ -1,0 +1,45 @@
+
+*{
+  font-style: normal;
+
+}
+
+
+ hr{
+   color: gray;
+   size: 4px;
+ }
+.E-D{
+  font-size: 13px;
+}
+
+td,th{
+  padding: 10px;
+  text-align: left;
+}
+.form1{
+
+    margin: 0 25rem;
+   padding: 3rem;
+   background-color: #9fbfc9;
+   border: 2px solid black;
+   border-radius: 10px;
+}
+.mb-3{
+  width: 50%;
+    text-align: left;
+}
+.form-label{
+
+}
+.form_bt{
+background-color: #9fbfc9;
+  padding: 1rem;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-bottom: 5rem;
+}
+.row {
+ width: 40%;
+}
+ 
